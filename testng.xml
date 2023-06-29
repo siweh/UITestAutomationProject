@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Software Testing Board" parallel="tests">
+<!--    <test name="Microsoft Edge">-->
+<!--        <parameter name="browser" value="edge"/>-->
+<!--        <parameter name="url" value="https://magento.softwaretestingboard.com/"/>-->
+<!--        <classes>-->
+<!--            <class name="com.softwaretestingboard.magento.Tests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <test name="Chrome">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="url" value="https://magento.softwaretestingboard.com/"/>
+        <classes>
+            <class name="com.softwaretestingboard.magento.Tests"/>
+        </classes>
+    </test>
+
+    <!--    <listeners>-->
+    <!--        <listener class-name="com.inetbanking.utilities.Reporting"/>-->
+    <!--    </listeners>-->
+</suite>

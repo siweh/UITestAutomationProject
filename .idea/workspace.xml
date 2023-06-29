@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b752becf-06e7-4b3a-9fd8-14c7a2039ef5" name="Changes" comment="Create a project structure">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/SetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/WebDriverUtil.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RiAClbzo1uVKcUb4A9BeIsxngZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;LombokPluginIS_LOMBOK_JPS_FIX_ENABLED&quot;: &quot;false&quot;,
+    &quot;LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.softwaretestingboard.magento.Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/sanem/development/selenium-with-java/UITestAutomationProject/testng.xml">
+    <configuration name="C:/Users/sanem/development/selenium-with-java/UITestAutomationProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UITestAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UITestAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softwaretestingboard.magento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softwaretestingboard.magento" />
+      <option name="MAIN_CLASS_NAME" value="com.softwaretestingboard.magento.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.homepageTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UITestAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softwaretestingboard.magento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softwaretestingboard.magento.Data" />
+      <option name="MAIN_CLASS_NAME" value="com.softwaretestingboard.magento.Tests" />
+      <option name="METHOD_NAME" value="homepageTitleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.notLoggedInAddProductToComparelist" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UITestAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softwaretestingboard.magento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softwaretestingboard.magento" />
+      <option name="MAIN_CLASS_NAME" value="com.softwaretestingboard.magento.Tests" />
+      <option name="METHOD_NAME" value="notLoggedInAddProductToComparelist" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.validLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UITestAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softwaretestingboard.magento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softwaretestingboard.magento" />
+      <option name="MAIN_CLASS_NAME" value="com.softwaretestingboard.magento.Tests" />
+      <option name="METHOD_NAME" value="validLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/sanem/development/selenium-with-java/UITestAutomationProject/testng.xml" />
+        <item itemvalue="TestNG.Tests.notLoggedInAddProductToComparelist" />
+        <item itemvalue="TestNG.Tests.validLoginTest" />
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.Tests.homepageTitleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b752becf-06e7-4b3a-9fd8-14c7a2039ef5" name="Changes" comment="" />
+      <created>1687722406791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687722406791</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create a project structure">
+      <created>1687727369223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687727369223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create a project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a project structure" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
