@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b752becf-06e7-4b3a-9fd8-14c7a2039ef5" name="Changes" comment="Create a project structure">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/SetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/WebDriverUtil.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b752becf-06e7-4b3a-9fd8-14c7a2039ef5" name="Changes" comment="Managed to read data from excel file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
