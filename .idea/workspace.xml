@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b752becf-06e7-4b3a-9fd8-14c7a2039ef5" name="Changes" comment="Create a project structure">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/SetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="b752becf-06e7-4b3a-9fd8-14c7a2039ef5" name="Changes" comment="Managed to create extent reports and it does takes screenshots, now left to fix locators on the test cases">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/CompareProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/SearchProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/ExcelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/WebDriverUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/Data/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/application/Homepage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/config/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/SetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/SetUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687727369223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Managed to create extent reports and it does takes screenshots, now left to fix locators on the test cases">
+      <created>1688074354585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688074354585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +193,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create a project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a project structure" />
+    <MESSAGE value="Managed to create extent reports and it does takes screenshots, now left to fix locators on the test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Managed to create extent reports and it does takes screenshots, now left to fix locators on the test cases" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/softwaretestingboard/magento/utilities/ExcelReader.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

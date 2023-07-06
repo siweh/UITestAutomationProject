@@ -23,15 +23,12 @@ public class SetUp {
                 throw new IllegalArgumentException("Invalid browser value provided: " + browser);
             }
 
-            driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+            driver.manage().window().maximize();
+            driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
             return driver;
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static void tearDown(WebDriver driver){
-        SetUp.driver.quit();
-//        extent.flush();
-    }
 }
